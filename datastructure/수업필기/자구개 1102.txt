@@ -1,0 +1,49 @@
+인문학은 수도꼭지 , 수학 물리 생물
+관심은 있는데 뭐가 관심있는지 모른다..
+앱도 한물감
+빅데이터는 눈에 안보여
+UX UI
+제록스에서 gui만듬
+
+아이폰에 홈버튼
+
+우리나라는 하드웨어 기반 ㅠ
+선입선출,
+first in first out
+
+OS window,mac OS, ubuntu 등등
+이런것들이 우선순위 계산해서 프로그램 작동
+실시간: 100미리/sec??
+operating system
+
+들어오는게 rear
+나가는게 front
+H rear front 면 양방향이 쉽
+H front rear 면 단방향이 쉽
+
+원형이면 공백해결!
+
+초기:front=rear=-1
+공백rhdqor: front=rear
+rear=n-1이면 포화상태 (C에서)
+
+포화..오류!
+원형을 만들어서!: 리스트가 한정되어있을때
+full: rear+1 mod n = front
+근데 파이썬은 그냥
+front=0, rear = length-1
+
+front rear 가 삽입과 삭제 둘다 가능할때가 덱.
+이중연결리스트로 하면 easy 단방향으로굳이
+할필요없음
+
+큐의 단점 앞에서 오류가 나서 멈추면 뒤에거도
+못한다.. 대표적인 예 프린터
+
+1.리스트 큐
+2.clist 큐
+3.plist 큐
+4.Slist
+5.double큐
+
+트리
